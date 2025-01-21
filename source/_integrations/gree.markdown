@@ -33,7 +33,7 @@ Devices must first be bound to WiFi using the Gree+ app, or app provided by the 
 Any Gree Smart device working with the Gree+ app should be supported, including non-Gree branded devices such some sold by:
 
 - Trane
-- Innova
+- Innovair
 - Cooper & Hunter
 - Proklima
 - Tadiran
